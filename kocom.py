@@ -23,7 +23,7 @@ import configparser
 
 
 # define -------------------------------
-SW_VERSION = '2022.04.10'
+SW_VERSION = '2024.04.10'
 CONFIG_FILE = 'kocom.conf'
 BUF_SIZE = 100
 
